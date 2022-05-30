@@ -1,0 +1,212 @@
+{
+  "cartes": [
+    {
+      "valeur": "A",
+      "couleur": "pique"
+    },
+    {
+      "valeur": "A",
+      "couleur": "carreau"
+    },
+    {
+      "valeur": "A",
+      "couleur": "trefle"
+    },
+    {
+      "valeur": "A",
+      "couleur": "coeur"
+    },
+    {
+      "valeur": "2",
+      "couleur": "pique"
+    },
+    {
+      "valeur": "2",
+      "couleur": "carreau"
+    },
+    {
+      "valeur": "2",
+      "couleur": "trefle"
+    },
+    {
+      "valeur": "2",
+      "couleur": "coeur"
+    },
+    {
+      "valeur": "3",
+      "couleur": "pique"
+    },
+    {
+      "valeur": "3",
+      "couleur": "carreau"
+    },
+    {
+      "valeur": "3",
+      "couleur": "trefle"
+    },
+    {
+      "valeur": "3",
+      "couleur": "coeur"
+    },
+    {
+      "valeur": "4",
+      "couleur": "pique"
+    },
+    {
+      "valeur": "4",
+      "couleur": "carreau"
+    },
+    {
+      "valeur": "4",
+      "couleur": "trefle"
+    },
+    {
+      "valeur": "4",
+      "couleur": "coeur"
+    },
+    {
+      "valeur": "5",
+      "couleur": "pique"
+    },
+    {
+      "valeur": "5",
+      "couleur": "carreau"
+    },
+    {
+      "valeur": "5",
+      "couleur": "trefle"
+    },
+    {
+      "valeur": "5",
+      "couleur": "coeur"
+    },
+    {
+      "valeur": "6",
+      "couleur": "pique"
+    },
+    {
+      "valeur": "6",
+      "couleur": "carreau"
+    },
+    {
+      "valeur": "6",
+      "couleur": "trefle"
+    },
+    {
+      "valeur": "6",
+      "couleur": "coeur"
+    },
+    {
+      "valeur": "7",
+      "couleur": "pique"
+    },
+    {
+      "valeur": "7",
+      "couleur": "carreau"
+    },
+    {
+      "valeur": "7",
+      "couleur": "trefle"
+    },
+    {
+      "valeur": "7",
+      "couleur": "coeur"
+    },
+    {
+      "valeur": "8",
+      "couleur": "pique"
+    },
+    {
+      "valeur": "8",
+      "couleur": "carreau"
+    },
+    {
+      "valeur": "8",
+      "couleur": "trefle"
+    },
+    {
+      "valeur": "8",
+      "couleur": "coeur"
+    },
+    {
+      "valeur": "9",
+      "couleur": "pique"
+    },
+    {
+      "valeur": "9",
+      "couleur": "carreau"
+    },
+    {
+      "valeur": "9",
+      "couleur": "trefle"
+    },
+    {
+      "valeur": "9",
+      "couleur": "coeur"
+    },
+    {
+      "valeur": "10",
+      "couleur": "pique"
+    },
+    {
+      "valeur": "10",
+      "couleur": "carreau"
+    },
+    {
+      "valeur": "10",
+      "couleur": "trefle"
+    },
+    {
+      "valeur": "10",
+      "couleur": "coeur"
+    },
+    {
+      "valeur": "J",
+      "couleur": "pique"
+    },
+    {
+      "valeur": "J",
+      "couleur": "carreau"
+    },
+    {
+      "valeur": "J",
+      "couleur": "trefle"
+    },
+    {
+      "valeur": "J",
+      "couleur": "coeur"
+    },
+    {
+      "valeur": "Q",
+      "couleur": "pique"
+    },
+    {
+      "valeur": "Q",
+      "couleur": "carreau"
+    },
+    {
+      "valeur": "Q",
+      "couleur": "trefle"
+    },
+    {
+      "valeur": "Q",
+      "couleur": "coeur"
+    },
+    {
+      "valeur": "K",
+      "couleur": "pique"
+    },
+    {
+      "valeur": "K",
+      "couleur": "carreau"
+    },
+    {
+      "valeur": "K",
+      "couleur": "trefle"
+    },
+    {
+      "valeur": "K",
+      "couleur": "coeur"
+    }
+  ]
+}

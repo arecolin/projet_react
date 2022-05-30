@@ -1,0 +1,23 @@
+.mainContainer {
+  color: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 0.5em;
+}
+
+.carteContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.titre {
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+  .titre {
+    font-size: 150%;
+  }
+}
