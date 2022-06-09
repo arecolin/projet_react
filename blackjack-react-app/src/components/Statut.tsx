@@ -13,7 +13,7 @@ const Statut: React.FC<StatutProps> = ({ message, solde }) => {
         <h1 className={styles.valeur}>{message}</h1>
       </div>
       <div className={styles.solde}>
-        <h1 className={styles.valeur}>${solde}</h1>
+        <h1 className={styles.valeur}>{solde}€</h1>
       </div>
     </div>
   );

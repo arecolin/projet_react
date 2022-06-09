@@ -7,12 +7,12 @@
 .miseContainer {
   display: flex;
   align-items: center;
-  color: white;
+  color: #0f0018;
   margin: 0 0.5em;
   padding: 0 1em;
   width: 40%;
-  background: black;
-  border: 5px solid white;
+  background: #9907F4;
+  border: 5px solid #0f0018;
   border-radius: 15px;
   box-shadow: 0px 1px 10px rgb(0, 0, 0);
 }
@@ -27,8 +27,8 @@
   padding: 0;
   border: 0;
   outline: 0;
-  background: black;
-  color: white;
+  background: #9907F4;
+  color: #0f0018;
 }
 
 .entreeErreur {
@@ -41,7 +41,7 @@
   padding: 0;
   border: 0;
   outline: 0;
-  background: black;
+  background: #9907F4;
   color: red;
 }
 
@@ -52,14 +52,14 @@
 }
 
 .bouton {
-  color: white;
+  color: #0f0018;
   font-weight: bold;
   margin: 0 0.5em;
   padding: 1em;
   width: 30%;
-  background: black;
+  background: #9907F4;
   outline: none;
-  border: 5px solid white;
+  border: 5px solid #0f0018;
   border-radius: 15px;
   box-shadow: 0px 1px 10px rgb(0, 0, 0);
   text-align: center;
@@ -68,16 +68,16 @@
 
 @media (hover: hover) {
   .bouton:hover {
-    color: black;
-    background: white;
-    border: 5px solid black;
+    color: #9907F4;
+    background: #0f0018;
+    border: 5px solid #9907F4;
   }
 }
 
 .bouton:disabled {
-  color: gray;
-  background: rgb(60, 60, 60);
-  border: 5px solid gray;
+  color: #0f0018;
+  background: #4c037a;
+  border: 5px solid #0f0018;
 }
 
 @media screen and (max-width: 992px) {
