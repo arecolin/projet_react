@@ -26,3 +26,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+## Lien pour la maquette : 
+
+https://www.figma.com/file/MB3GxzLrw3aQ7BquF3SMtt/Maquette-takaplay?node-id=15%3A9
